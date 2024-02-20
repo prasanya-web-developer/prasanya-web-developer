@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 
 ## Projects
-- [NetFlix Clone]([url](https://reactjsmini.ccbp.tech/login)): A Netflix Clone App developed with user authentication. Username: **saira**,  Password: **princess@9**
-- [NxT Trendz]([url](https://babbutrendzz.ccbp.tech/login)): An E-Commerce website created using ReactJS with uuser authentication. Username: **rahul**,  Password: **rahul@2021**
+- [Netflix Clone](https://reactjsmini.ccbp.tech/login):  A Netflix Clone App developed with user authentication. Username: **saira**,  Password: **princess@9**
+- [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with uuser authentication. Username: **rahul**,  Password: **rahul@2021**
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanya-shankar/)
